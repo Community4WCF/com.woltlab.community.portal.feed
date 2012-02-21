@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>	
+	<import>
+		<eventlistener>
+			<eventclassname>PortalPage</eventclassname>
+			<eventname>assignVariables</eventname>
+			<listenerclassfile>lib/system/event/listener/PortalFeedListener.class.php</listenerclassfile>
+		</eventlistener>
+	</import>
+</data>
